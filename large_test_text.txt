@@ -1,0 +1,2 @@
+This is a cpp implementation of Huffman coding where data is compressed by referencing 
+character frequency instead of ascii.
